@@ -131,3 +131,21 @@ iframe{
 	border: solid red 5px;
 	border-radius: 10px;
 }
+@media screen and (min-width: 600px){
+  #summary{
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+    text-align: center;
+    }
+}
+	 
+@media screen and (min-width: 600px){
+  .sporting{
+    padding: 0;
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+    text-align: center;
+    }
